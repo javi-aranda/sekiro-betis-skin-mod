@@ -2,6 +2,8 @@
 
 This mod allow you to play as Betis Sekiro with some modified textures.
 
+![Skin showcase](images/showcase.PNG)
+
 ## Requirements:
 
 - Sekiro Mod Engine
